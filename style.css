@@ -31,8 +31,8 @@ nav{
     font-size: 20px;
 }
 .svg-bar{
-    filter: brightness(0) invert(1);
-    width: 25px;
+    /* filter: brightness(0) invert(1); */
+    /* width: 25px; */
     height: 25px;
 }
 .page{
@@ -270,7 +270,7 @@ nav{
 .nav-open p{
     font-size: 18px;
 }
-/social-links img{
+.social-links img{
     padding: 0px 20px;
 }
 .logo, .menu{
